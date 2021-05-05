@@ -34,7 +34,7 @@ local Runfast = false
 
 local Espplayer = false-- Creates the folder(U will put here your buttons,etc)
 
-w:Label("https://discord.gg/WMc5P3m7",{
+c:Label("https://discord.gg/WMc5P3m7",{
     TextSize = 25; -- Self Explaining
     TextColor = Color3.fromRGB(255,255,255); -- Self Explaining
     BgColor = Color3.fromRGB(69,69,69); -- Self Explaining
