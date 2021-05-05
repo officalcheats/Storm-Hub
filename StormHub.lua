@@ -161,9 +161,10 @@ c:Button("Click me for Credits",function()
     print("Axon Winnig")
     game.StarterGui:SetCore('SendNotification', {
         Title    = 'Credits',
-        Text     = ('made by Axon#2433.'),
+        Text     = ('Join my discord server https://discord.gg/WMc5P3m7.'),
         Icon    = ('http://www.roblox.com/asset/?id=6710773193'),
         Duration = 9999,
+    })
     })
     
 end)
