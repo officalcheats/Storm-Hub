@@ -165,7 +165,6 @@ c:Button("Click me for Credits",function()
         Icon    = ('http://www.roblox.com/asset/?id=6710773193'),
         Duration = 9999,
     })
-    })
     
 end)
 
